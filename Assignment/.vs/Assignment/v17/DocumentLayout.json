@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10decoders\\source\\repos\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\controllers\\v2\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\v2\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\movierepository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\movierepository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\moviereview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\moviereview1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\localuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\localuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\loginrequest\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\loginrequest\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\loginrequest\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\loginrequest\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\migrations\\moviescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\moviescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\loginrequest\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\loginrequest\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\migrations\\20240325090008_addnewdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20240325090008_addnewdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\movierepository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\movierepository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\basicauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\basicauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10decoders\\AppData\\Local\\Temp\\.vsdbgsrc\\8388b9373bb9769d073310db09e967e531509e103531b2389953f7e86f6bad43\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\migrations\\20240325083826_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20240325083826_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\migrations\\20240325085153_dropalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20240325085153_dropalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\moviereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\moviereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|c:\\users\\10decoders\\source\\repos\\assignment\\assignment\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8220F254-D8C3-480D-8841-6A6CF24D6BB9}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\LoginRequest\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\LoginRequest.cs",
+              "RelativeToolTip": "Assignment\\Models\\LoginRequest\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:21:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalUser.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LocalUser.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\LocalUser.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LocalUser.cs",
+              "RelativeToolTip": "Assignment\\Models\\LocalUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:39:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\FileUpload.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\FileUpload.cs",
+              "RelativeToolTip": "Assignment\\Models\\FileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:39:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Assignment\\Models\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:58:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieReview1.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MovieReview1.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\MovieReview1.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MovieReview1.cs",
+              "RelativeToolTip": "Assignment\\Models\\MovieReview1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:46:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\MovieRepository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Assignment\\MovieRepository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\MovieRepository\\IMovieRepository.cs",
+              "RelativeToolTip": "Assignment\\MovieRepository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:04:40.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\V2\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\V2\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\V2\\MoviesController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\V2\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:47:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:00:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\appsettings.json",
+              "RelativeToolTip": "Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T11:47:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Assignment\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Services\\UserServices.cs",
+              "RelativeToolTip": "Assignment\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:06:16.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\LoginRequest\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\LoginResponse.cs",
+              "RelativeToolTip": "Assignment\\Models\\LoginRequest\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:24:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:01:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\MoviesContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\MoviesContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\MoviesContextModelSnapshot.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\MoviesContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:55:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Assignment\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\appsettings.Development.json",
+              "RelativeToolTip": "Assignment\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T07:00:30.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:51:45.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\LoginRequest\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\LoginRequest\\RegistrationRequest.cs",
+              "RelativeToolTip": "Assignment\\Models\\LoginRequest\\RegistrationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:30:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240325090008_addnewdb.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325090008_addnewdb.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20240325090008_addnewdb.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325090008_addnewdb.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20240325090008_addnewdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:00:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:39:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\MovieRepository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Assignment\\MovieRepository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\MovieRepository\\MovieRepository.cs",
+              "RelativeToolTip": "Assignment\\MovieRepository\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:26:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Assignment\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Services\\IUserService.cs",
+              "RelativeToolTip": "Assignment\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:04:28.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasicAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\BasicAuthentication.cs",
+              "RelativeDocumentMoniker": "Assignment\\BasicAuthentication.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\BasicAuthentication.cs",
+              "RelativeToolTip": "Assignment\\BasicAuthentication.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAADsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:19:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\AppData\\Local\\Temp\\.vsdbgsrc\\8388b9373bb9769d073310db09e967e531509e103531b2389953f7e86f6bad43\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8388b9373bb9769d073310db09e967e531509e103531b2389953f7e86f6bad43\\Program.cs",
+              "ToolTip": "C:\\Users\\10decoders\\AppData\\Local\\Temp\\.vsdbgsrc\\8388b9373bb9769d073310db09e967e531509e103531b2389953f7e86f6bad43\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8388b9373bb9769d073310db09e967e531509e103531b2389953f7e86f6bad43\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:43:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240325085153_dropalltables.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325085153_dropalltables.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20240325085153_dropalltables.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325085153_dropalltables.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20240325085153_dropalltables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:51:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Movie.cs",
+              "RelativeToolTip": "Assignment\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:38:25.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240325083826_initial.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325083826_initial.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20240325083826_initial.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Migrations\\20240325083826_initial.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20240325083826_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:38:26.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MoviesContext.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MoviesContext.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\MoviesContext.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MoviesContext.cs",
+              "RelativeToolTip": "Assignment\\Models\\MoviesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:46:37.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Booking.cs",
+              "RelativeToolTip": "Assignment\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:38:44.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "Assignment\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "Assignment\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:23:29.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieReview.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MovieReview.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\MovieReview.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\MovieReview.cs",
+              "RelativeToolTip": "Assignment\\Models\\MovieReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:46:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Assignment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Assignment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T12:54:13.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:26:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Theater.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Theater.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\Theater.cs",
+              "RelativeToolTip": "Assignment\\Models\\Theater.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:37:27.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Assignment.csproj",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Assignment.csproj",
+              "RelativeDocumentMoniker": "Assignment\\Assignment.csproj",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Assignment.csproj",
+              "RelativeToolTip": "Assignment\\Assignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T09:54:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\Models\\ShowTime.cs",
+              "RelativeToolTip": "Assignment\\Models\\ShowTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:37:25.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

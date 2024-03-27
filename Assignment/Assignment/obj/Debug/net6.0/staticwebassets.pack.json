@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\wwwroot\\uploads\\1.jfif",
+      "PackagePath": "staticwebassets\\uploads\\1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\wwwroot\\uploads\\2.jfif",
+      "PackagePath": "staticwebassets\\uploads\\2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\wwwroot\\uploads\\DocScanner Mar 15, 2024 1-21 PM.pdf",
+      "PackagePath": "staticwebassets\\uploads\\DocScanner Mar 15, 2024 1-21 PM.pdf"
+    },
+    {
+      "Id": "C:\\Users\\10decoders\\source\\repos\\Assignment\\Assignment\\wwwroot\\uploads\\image.png",
+      "PackagePath": "staticwebassets\\uploads\\image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
