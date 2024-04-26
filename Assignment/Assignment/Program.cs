@@ -22,6 +22,7 @@ builder.Services.AddDbContext<MoviesContext>(options => options.UseSqlServer(bui
 builder.Services.AddControllers();
 builder.Services.AddScoped<IUserService, UserServices>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IimageRepository,ImageRepository>();
 var key = builder.Configuration.GetValue<string>("ApiSettings:secretKey");
 
 builder.Services.AddApiVersioning(c =>

@@ -1,0 +1,94 @@
+﻿@model Movies.Models.MoviesReviews
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    /* Custom styles for the form container */
+    .form-container {
+        background-color: #bd9317; /* Light gray background */
+        border-radius: 10px; /* Rounded corners */
+        padding: 20px; /* Add padding */
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Add shadow */
+    }
+
+    /* Custom styles for the form inputs */
+    .form-control {
+        border: 1px solid #a89f63; /* Gray border */
+        border-radius: 5px; /* Rounded corners */
+        padding: 10px; /* Add padding */
+        margin-bottom: 10px; /* Add margin */
+    }
+
+    /* Custom styles for the submit button */
+    .btn-primary {
+        background-color: #007bff; /* Blue color */
+        color: #798c56; /* White text color */
+        padding: 10px 20px; /* Add padding */
+        border: none; /* Remove border */
+        border-radius: 5px; /* Rounded corners */
+        cursor: pointer; /* Add pointer cursor */
+    }
+
+    /* Custom styles for the back link */
+    .back-link {
+        color: #56608c; /* Blue color */
+        text-decoration: none; /* Remove underline */
+        margin-top: 20px; /* Add margin */
+        display: inline-block; /* Make it inline-block */
+    }
+</style>
+
+<h1>Create</h1>
+
+<h4>MoviesReviews</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <div class="form-container">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ReviewId" class="control-label"></label>
+                    <input asp-for="ReviewId" class="form-control" />
+                    <span asp-validation-for="ReviewId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MovieId" class="control-label"></label>
+                    <input asp-for="MovieId" class="form-control" />
+                    <span asp-validation-for="MovieId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ReviewerName" class="control-label"></label>
+                    <input asp-for="ReviewerName" class="form-control" />
+                    <span asp-validation-for="ReviewerName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ReviewText" class="control-label"></label>
+                    <input asp-for="ReviewText" class="form-control" />
+                    <span asp-validation-for="ReviewText" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Rating" class="control-label"></label>
+                    <input asp-for="Rating" class="form-control" />
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="back-link">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

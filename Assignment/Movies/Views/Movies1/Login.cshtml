@@ -1,0 +1,18 @@
+﻿<div class="login-container slide-in">
+    <form>
+        <div>
+            <label for="username">Username</label>
+            <input type="text" id="username" name="Username">
+            <span class="validation-error"></span>
+        </div>
+        <div>
+            <label for="password">Password</label>
+            <input type="password" id="password" name="Password">
+            <span class="validation-error"></span>
+        </div>
+        <div>
+            <input type="submit" value="Login" onclick="window.location.href='@Url.Action("Index", "Movies1")'" />
+            <input type="button" value="Register" onclick="window.location.href='@Url.Action("Register", "Movies1")'" />
+        </div>
+    </form>
+</div>

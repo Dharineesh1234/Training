@@ -16,6 +16,8 @@ namespace Assignment.Models
         {
         }
         public virtual DbSet<LocalUser> LocalUsers { get; set; } = null!;
+        public virtual DbSet<FileUpload> FileUploads { get; set; } = null!;
+       
         public virtual DbSet<Booking> Bookings { get; set; } = null!;
         public virtual DbSet<Movie> Movies { get; set; } = null!;
         public virtual DbSet<MovieReview> MovieReviews { get; set; } = null!;

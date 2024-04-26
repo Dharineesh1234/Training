@@ -3,6 +3,7 @@ using Assignment.MovieRepository;
 using Assignment.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Movie.Controllers
 {
@@ -20,6 +21,7 @@ namespace Movie.Controllers
     public class MovieController : ControllerBase
     {
         private readonly IMovieRepository _movieRepository;
+        private readonly MoviesContext _context;
 
         public MovieController(IMovieRepository movieRepository)
         {
@@ -39,15 +41,15 @@ namespace Movie.Controllers
         [Route("GetAll")]
         [Authorize]
 
-        public IActionResult GetAll()
+        public IActionResult GetAll(int? MovieId, int pageNumber = 1, int pageSize = 10)
+        
         {
-            var movieReviews = _movieRepository.GetAll();
+            var movieReviews = _movieRepository.GetAll(MovieId, pageNumber, pageSize);
             return Ok(movieReviews);
         }
-
         [HttpGet]
         [Route("GetById/{id}")]
-        [Authorize]
+        
         public IActionResult GetById(int id)
         {
             var movieReview = _movieRepository.GetById(id);
@@ -65,5 +67,17 @@ namespace Movie.Controllers
             _movieRepository.Update(movieReview);
             return Ok(movieReview);
         }
+        [HttpGet]
+        [Route("BOOKING")]
+        public IActionResult GetBooking(int id)
+        {
+            var booking= _movieRepository.GetBooking(id);
+            if(booking == null)
+            {
+                return NotFound();
+            }
+            return Ok(booking);
+        }
+       
     }
 }

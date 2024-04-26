@@ -17,7 +17,7 @@ namespace Assignment.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.28")
+                .HasAnnotation("ProductVersion", "6.0.29")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -43,6 +43,23 @@ namespace Assignment.Migrations
                     b.HasIndex("ShowTimeId");
 
                     b.ToTable("Booking", (string)null);
+                });
+
+            modelBuilder.Entity("Assignment.Models.FileUpload", b =>
+                {
+                    b.Property<int>("Image_Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Image_Id"), 1L, 1);
+
+                    b.Property<byte[]>("Data")
+                        .IsRequired()
+                        .HasColumnType("varbinary(max)");
+
+                    b.HasKey("Image_Id");
+
+                    b.ToTable("FileUploads");
                 });
 
             modelBuilder.Entity("Assignment.Models.LocalUser", b =>
@@ -229,7 +246,6 @@ namespace Assignment.Migrations
                 {
                     b.Navigation("ShowTimes");
                 });
-            
 #pragma warning restore 612, 618
         }
     }
